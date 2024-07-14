@@ -72,7 +72,7 @@ body.mobile #language {
 }
 
 body.index {
-  background: url(/web/20120604025033im_/http://picasa.google.com/intl/ru/images/watermark.png) no-repeat center top;
+  background: url(watermark.png) no-repeat center top;
 }
 
 
@@ -197,15 +197,15 @@ ul.menu li.offsite {
 }
 
 .section.circles span span {
-  background-image: url(/web/20120604025033im_/http://picasa.google.com/intl/ru/images/thumb_circles.png);
+  background-image: url(thumb_circles.png);
 }
 
 .section.name span span {
-  background-image: url(/web/20120604025033im_/http://picasa.google.com/intl/ru/images/thumb_name.png);
+  background-image: url(thumb_name.png);
 }
 
 .section.edit span span {
-  background-image: url(/web/20120604025033im_/http://picasa.google.com/intl/ru/images/thumb_edit.png);
+  background-image: url(thumb_edit.png);
 }
 
 .index .section.edit {
